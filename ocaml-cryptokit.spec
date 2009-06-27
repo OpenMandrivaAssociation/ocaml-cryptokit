@@ -1,6 +1,6 @@
 Name:           ocaml-cryptokit
 Version:        1.3
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        OCaml library of cryptographic and hash functions
 License:        LGPLv2 with exceptions
 Group:          Development/Other
