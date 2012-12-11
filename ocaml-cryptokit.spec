@@ -86,3 +86,15 @@ rm -rf %{buildroot}
 %{_libdir}/ocaml/cryptokit/*.cmxa
 %{_libdir}/ocaml/cryptokit/*.cmx
 %{_libdir}/ocaml/cryptokit/*.mli
+
+
+%changelog
+* Sat Jun 27 2009 Guillaume Rousse <guillomovitch@mandriva.org> 1.3-2mdv2010.0
++ Revision: 390038
+- rebuild
+
+* Thu Jun 11 2009 Florent Monnier <blue_prawn@mandriva.org> 1.3-1mdv2010.0
++ Revision: 385289
+- import ocaml-cryptokit
+
+
