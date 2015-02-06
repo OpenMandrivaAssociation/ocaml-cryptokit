@@ -4,7 +4,7 @@
 Summary:	OCaml library of cryptographic and hash functions
 Name:		ocaml-cryptokit
 Version:	1.9
-Release:	1
+Release:	2
 License:	LGPLv2+ with linking exception
 Group:		Development/Other
 Url:		http://forge.ocamlcore.org/projects/cryptokit/
