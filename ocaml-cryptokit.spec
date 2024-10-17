@@ -7,7 +7,7 @@ Version:	1.9
 Release:	2
 License:	LGPLv2+ with linking exception
 Group:		Development/Other
-Url:		http://forge.ocamlcore.org/projects/cryptokit/
+Url:		https://forge.ocamlcore.org/projects/cryptokit/
 Source0:	http://forge.ocamlcore.org/frs/download.php/1229/cryptokit-%{version}.tar.gz
 BuildRequires:	ocaml
 BuildRequires:	ocaml-findlib
